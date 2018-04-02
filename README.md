@@ -51,7 +51,7 @@ A comprehensive report of what this project entails can be found [here](https://
 * Jinal Jain
 
 ## Who do I talk to?
-For any questions send an email at mssumaria@wpi.edu
+For any questions send an email at ranaidu@wpi.edu
 
 
 
